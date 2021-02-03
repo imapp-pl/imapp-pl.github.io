@@ -1,0 +1,147 @@
+i[class*="shortcode-icon"].vc_element-icon,
+i[class^="shortcode-icon"].vc_element-icon {
+    background-image: url(../images/shortcode-icons.png);
+    background-repeat: no-repeat;
+    display: block;
+    background-size: auto;
+}
+
+div.vc_el-container i.shortcode-icon-app-screenshot,
+.wpb_element_title i.shortcode-icon-app-screenshot {
+    width: 32px;
+    height: 32px;
+    background-position: -5px -5px;
+}
+
+div.vc_el-container i.shortcode-icon-banner,
+.wpb_element_title i.shortcode-icon-banner {
+    width: 32px;
+    height: 32px;
+    background-position: -47px -5px;
+}
+
+div.vc_el-container i.shortcode-icon-benefits,
+.wpb_element_title i.shortcode-icon-benefits {
+    width: 32px;
+    height: 32px;
+    background-position: -89px -5px;
+}
+
+div.vc_el-container i.shortcode-icon-blog,
+.wpb_element_title i.shortcode-icon-blog {
+    width: 32px;
+    height: 32px;
+    background-position: -131px -5px;
+}
+
+div.vc_el-container i.shortcode-icon-categories,
+.wpb_element_title i.shortcode-icon-categories {
+    width: 32px;
+    height: 32px;
+    background-position: -5px -47px;
+}
+
+div.vc_el-container i.shortcode-icon-download-button,
+.wpb_element_title i.shortcode-icon-download-button {
+    width: 32px;
+    height: 32px;
+    background-position: -47px -47px;
+}
+
+div.vc_el-container i.shortcode-icon-download-counter,
+.wpb_element_title i.shortcode-icon-download-counter {
+    width: 32px;
+    height: 32px;
+    background-position: -89px -47px;
+}
+
+div.vc_el-container i.shortcode-icon-google-map,
+.wpb_element_title i.shortcode-icon-google-map {
+    width: 32px;
+    height: 32px;
+    background-position: -131px -47px;
+}
+
+div.vc_el-container i.shortcode-icon-gradient-button,
+.wpb_element_title i.shortcode-icon-gradient-button {
+    width: 32px;
+    height: 32px;
+    background-position: -5px -89px;
+}
+
+div.vc_el-container i.shortcode-icon-hand-phone,
+.wpb_element_title i.shortcode-icon-hand-phone {
+    width: 32px;
+    height: 32px;
+    background-position: -47px -89px;
+}
+
+div.vc_el-container i.shortcode-icon-icon-box,
+.wpb_element_title i.shortcode-icon-icon-box {
+    width: 32px;
+    height: 32px;
+    background-position: -89px -89px;
+}
+
+div.vc_el-container i.shortcode-icon-portfolio,
+.wpb_element_title i.shortcode-icon-portfolio {
+    width: 32px;
+    height: 32px;
+    background-position: -131px -89px;
+}
+
+div.vc_el-container i.shortcode-icon-price-list,
+.wpb_element_title i.shortcode-icon-price-list {
+    width: 32px;
+    height: 32px;
+    background-position: -5px -131px;
+}
+
+div.vc_el-container i.shortcode-icon-price-list-2,
+.wpb_element_title i.shortcode-icon-price-list-2 {
+    width: 32px;
+    height: 32px;
+    background-position: -47px -131px;
+}
+
+div.vc_el-container i.shortcode-icon-product,
+.wpb_element_title i.shortcode-icon-product {
+    width: 32px;
+    height: 32px;
+    background-position: -89px -131px;
+}
+
+div.vc_el-container i.shortcode-icon-product-banner,
+.wpb_element_title i.shortcode-icon-product-banner {
+    width: 32px;
+    height: 32px;
+    background-position: -131px -131px;
+}
+
+div.vc_el-container i.shortcode-icon-skills,
+.wpb_element_title i.shortcode-icon-skills {
+    width: 32px;
+    height: 32px;
+    background-position: -173px -5px;
+}
+
+div.vc_el-container i.shortcode-icon-testimonials,
+.wpb_element_title i.shortcode-icon-testimonials {
+    width: 32px;
+    height: 32px;
+    background-position: -173px -47px;
+}
+
+div.vc_el-container i.shortcode-icon-video,
+.wpb_element_title i.shortcode-icon-video {
+    width: 32px;
+    height: 32px;
+    background-position: -173px -89px;
+}
+
+div.vc_el-container i.shortcode-icon-whois,
+.wpb_element_title i.shortcode-icon-whois {
+    width: 32px;
+    height: 32px;
+    background-position: -173px -131px;
+}
