@@ -792,3 +792,14 @@ object {
 #tkf::after {
       content: attr(data-1) attr(data-2) attr(data-3);
 }
+
+/*
+## Custom
+*/
+.map-with-content .map {
+	 -webkit-filter: grayscale(100%);
+       -moz-filter: grayscale(100%);
+        -ms-filter: grayscale(100%);
+         -o-filter: grayscale(100%);
+            filter: grayscale(100%);
+}
